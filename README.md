@@ -90,4 +90,4 @@ The dashboard makes it easier to identify:
 These insights can support data-driven analysis and help businesses better understand their sales and profitability patterns.
 
 ## Screenshot
-
+![Dashboard Preview](https://github.com/Alisha-Rahman/Madhav-Sales-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png)
